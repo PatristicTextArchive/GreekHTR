@@ -1,0 +1,138 @@
+{
+    "version": "0.2",
+    "name": "Greek manuscripts (special characters)",
+    "author": "Annette von Stockhausen",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ϗ"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ϛ"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ϟ"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ʹ"
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "’",
+            "keyboard_code": 39
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "⁘"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "※"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "⸏"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "⸓"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": ">"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "⸖"
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "εἰς^τ"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "character": "⸔"
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "⸕"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "⸐"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "⸑"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "()"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": ":"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "character": "+"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "character": "↑()"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "character": "↓()"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "character": "→"
+        },
+        {
+            "row": 3,
+            "column": 4,
+            "character": "←"
+        },
+        {
+            "row": 3,
+            "column": 5,
+            "character": "↟"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "character": "↡"
+        },
+        {
+            "row": 4,
+            "column": 1,
+            "character": "⟦_⟧"
+        }
+    ]
+}
