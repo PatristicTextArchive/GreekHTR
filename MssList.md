@@ -13,3 +13,4 @@
 | Vatican | BAV     | Vat.gr.155   | s. IX      | Old Angular Minuscule     | 64r-v, 65r-v, 66r-v, 67r-v, 68r-v                        | https://digi.vatlib.it/iiif/MSS_Vat.gr.155/manifest.json  |
 | Vatican | BAV     | Ott.gr.85    | s. IX-X    | Anastasius Type           | 157r-v, 158r-v, 159r-v, 160r-v, 161r                     | https://digi.vatlib.it/iiif/MSS_Ott.gr.85/manifest.json   |
 | Vatican | BAV     | Pal.gr.220   | s. X in    | Old Slanted Minuscule     | 133r-v, 134r-v, 135r, 186r-v, 187r-v, 188r               | https://digi.vatlib.it/iiif/MSS_Pal.gr.220/manifest.json  |
+| Vatican | BAV	    | Vat.gr.2138   | s. X ex   | Minuscule of the School of St. Nilus the Younger  | 1r-v, 34v, 35r-v, 36r-v, 62v, 63r, 77r    | https://digi.vatlib.it/iiif/MSS_Vat.gr.2138/manifest.json |
