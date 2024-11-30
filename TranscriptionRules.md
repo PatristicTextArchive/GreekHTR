@@ -18,7 +18,7 @@ Nomina sacra are put in their abbreviated form (as in the manuscript) in parenth
 
 ## Diakritika
 
-Diakritika are transcribed exactly as in the manuscript with the exception that diakritika on diphthongs are put on the second letter and not on the first letter as mostly in the manuscripts.
+Diakritika are transcribed exactly as in the manuscript with the exception that diakritika on diphthongs are put on the second letter and not on the first letter as mostly in the manuscripts. Also, if a ι (Iota) has both a trema (dialytika) and spiritus (psili or dasia), only the spiritus is transcribed, as this combination does not exist as pre-composed character in Unicode.
 
 ## Interpunction
 
