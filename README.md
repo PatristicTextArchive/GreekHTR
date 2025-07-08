@@ -1,5 +1,8 @@
 # Handwritten Text Recognition for Greek (grc)
 
+> [!TIP]
+> A preview of a recognition model for 9th-12th century minuscule manuscripts (not trained on microfilm images) is published here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838142.svg)](https://doi.org/10.5281/zenodo.15838142).
+
 This project is work in progress. 
 
 The repository contains data used to train [Kraken](http://kraken.re/) text recognition and segmentation models for medieval Greek minuscule manuscripts within the framework of [eScriptorium](https://gitlab.com/scripta/escriptorium).
